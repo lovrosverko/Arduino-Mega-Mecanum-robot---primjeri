@@ -186,5 +186,5 @@ Lekcija nudi dva načina povezivanja:
 
 ---
 
-*Pripremljeno za potrebe nastave i učeničkih radionica robotike.*  
+*Pripremljeno za potrebe natjecanja RobotIK 2026, nastave izvannastavnih aktivnosti i učeničkih radionica robotike.*  
 *Autor primjera i repozitorija: [lovrosverko](https://github.com/lovrosverko)*
